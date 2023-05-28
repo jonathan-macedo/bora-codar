@@ -11,7 +11,7 @@
 
 ## Protótipo do projeto
 Projeto no [Figma](https://www.figma.com/file/XnielIsj9qrix1qxAQLT9X/%23boraCodar---Desafio-1/duplicate?type=design&node-id=0-1)
-![Projeto]()
+![Projeto](https://github.com/jonathan-macedo/bora-codar/blob/main/desafio01/assets/images/Projeto.png)
 
 
 
